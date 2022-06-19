@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: survivordet
+  name: survivordetv2
 spec:
   selector:
     matchLabels:
