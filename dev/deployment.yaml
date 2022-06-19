@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:latest
+        image: nginx:alpine
         ports:
         - containerPort: 8080
