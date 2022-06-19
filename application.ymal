@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/jsk4074/ESDD_CD_CI_demo.git
+    repoURL: https://github.com/wooks527/E-SurvivorDet.git
     targetRevision: HEAD
     path: dev
   destination: 
