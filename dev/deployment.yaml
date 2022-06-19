@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: jsk4074/esdd_demo:test
+        image: nginx:latest
         ports:
         - containerPort: 8080
