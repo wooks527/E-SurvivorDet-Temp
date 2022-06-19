@@ -14,5 +14,5 @@ spec:
       containers:
       - name: myapp
         image: jsk4074/esdd_demo:test
-#         ports:
-#         - containerPort: 8080
+        ports:
+        - containerPort: 8080
